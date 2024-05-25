@@ -37,6 +37,8 @@ Toolmiet was conceived to address the time-consuming process of hunting for fron
 * Toolmiet continues to evolve with regular updates, incorporating user feedback and integrating new features to further enhance its capabilities.
 - Plans for future developments include expanding resource categories, implementing advanced search filters, and integrating social features to facilitate networking and mentorship opportunities.
 
+## Deployment
+This site deployed using the Vercel Platform.
 
  <br>Check out Toolmiet [Deployment](https://toolmiet.vercel.app/).
 
