@@ -9,36 +9,38 @@ seo:
 
 ![Project preview](/cover2.png)
 
-## Project overview
-Toolmiet was conceived to address the time-consuming process of hunting for frontend development and web design resources, a frustration experienced not only by the creator but also by junior developers entering the field. This case study explores how Toolmiet leveraged Next.js, AceternityUI, and TypeScript to provide a comprehensive solution to this problem.
+# Toolmiet Project Overview
+
+Toolmiet was created to simplify the search for front-end development and web design resources, benefiting both experienced and junior developers.
 
 ## Project Identification
 
-* Frontend developers and web designers often spend significant amounts of time searching for resources and tools.
-- Junior developers, in particular, face challenges in finding reliable and up-to-date resources to hone their skills.
-= + This inefficiency can hinder skill development and productivity, impacting the overall growth of individuals and the industry.
+- **Problem:** Developers spend too much time searching for resources.
+- **Impact:** This inefficiency hinders skill development and productivity.
+- 
+![Project preview](/resource.png)
 
 ## Tech Stack
 
-* Next.js: Chosen for its server-side rendering capabilities, static site generation, and seamless integration with React.
-- AceternityUI: Utilized for its robust UI components and design system, providing a cohesive and visually appealing user experience.
-+ TypeScript: Integrated to enhance code quality, improve developer productivity, and ensure type safety throughout the application.
+- **Next.js:** Server-side rendering and static site generation.
+- **AceternityUI:** Robust UI components for a cohesive design.
+- **TypeScript:** Enhances code quality and ensures type safety.
 
-![Project preview](/resource.png)
+## Impact
 
-## Impact 
-
-* Since its launch, Toolmiet has garnered positive feedback from both experienced developers and junior newcomers.
-- By reducing the time spent on resource discovery, Toolmiet empowers developers to focus more on skill development and project execution.
-+ The platform's community-driven approach fosters collaboration and knowledge-sharing, enriching the learning experience for users at all skill levels.
+- Positive feedback from developers.
+- Reduces time spent on resource discovery.
+- Encourages collaboration and knowledge-sharing.
 
 ## Future Development
 
-* Toolmiet continues to evolve with regular updates, incorporating user feedback and integrating new features to further enhance its capabilities.
-- Plans for future developments include expanding resource categories, implementing advanced search filters, and integrating social features to facilitate networking and mentorship opportunities.
+- Expand resource categories.
+- Implement advanced search filters.
+- Integrate social features for networking and mentorship.
 
 ## Deployment
-This site deployed using the Vercel Platform.
+
+- Deployed using the Vercel Platform.
 
  <br>Check out Toolmiet [Deployment](https://toolmiet.vercel.app/).
 
