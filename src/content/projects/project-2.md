@@ -1,6 +1,6 @@
 ---
 title: 'Toolmiet'
-description: Assorted Resources for developers
+description: Assorted Resources for developers and designers.
 publishDate: 'May 23 2024'
 seo:
   image:
