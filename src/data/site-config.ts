@@ -88,7 +88,7 @@ const siteConfig: SiteConfig = {
         }
     ],
     hero: {
-        text: " Hi There !!  I'm **Janani**,  I'm a 22 y/o  ECE graduate student at SSM Institute of Engineering and Technology  located at Dindigul. I like to play with colors and building things. I enjoy designing , web development and I love to sketch buildings.",
+        text: " Hi There !!  I'm **Janani**,  I'm a 22 y/o  ECE graduate student at SSM Institute of Engineering and Technology  located in Dindigul, Tamil Nadu. I like to play with colors and building things. I enjoy designing, web development and I love to sketch buildings.",
 
         actions: [
             {
