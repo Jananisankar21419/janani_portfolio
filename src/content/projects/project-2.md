@@ -17,7 +17,7 @@ Toolmiet was created to simplify the search for front-end development and web de
 
 - **Problem:** Developers spend too much time searching for resources.
 - **Impact:** This inefficiency hinders skill development and productivity.
-- 
+
 ![Project preview](/resource.png)
 
 ## Tech Stack
