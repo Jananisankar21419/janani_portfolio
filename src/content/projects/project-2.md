@@ -9,7 +9,7 @@ seo:
 
 ![Project preview](/cover2.png)
 
-# Toolmiet Project Overview
+## Toolmiet Project Overview
 
 Toolmiet was created to simplify the search for front-end development and web design resources, benefiting both experienced and junior developers.
 
