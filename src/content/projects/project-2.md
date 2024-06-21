@@ -38,9 +38,3 @@ Github:
 - Positive feedback from developers.
 - Reduces time spent on resource discovery.
 - Encourages collaboration and knowledge-sharing.
-
-### Future Development
-
-- Expand resource categories.
-- Implement advanced search filters.
-- Integrate social features for networking and mentorship.
