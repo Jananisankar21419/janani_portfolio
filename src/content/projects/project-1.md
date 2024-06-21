@@ -19,7 +19,7 @@ This is a side project for me to learn TypeScript.
 Demo link:
 [https://shadcn-dashboard-nu.vercel.app/](https://shadcn-dashboard-nu.vercel.app/).
 
-Gitub:
+Github:
 [https://github.com/Jananisankar21419/dashboard](https://github.com/Jananisankar21419/dashboard).
 
 
@@ -28,7 +28,7 @@ Gitub:
 - To provide valuable insights into your spending habits, allowing you to make more informed decisions.
 - Take control of your finances by identifying and reducing overspending with an expense tracker.
 
-### Techstack
+### Tech Stack
 
 For the frontend, I have used React with Next and Tailwind for styling primarily. Within the react/tailwind ecosystem, I have also used shadcn-ui for the dashboard.
 
