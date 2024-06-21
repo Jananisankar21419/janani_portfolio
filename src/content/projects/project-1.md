@@ -17,7 +17,7 @@ This is a side project for me to learn TypeScript.
 ### View Live
 
 Demo link:
-[https://shadcn-dashboard-nu.vercel.app/](https://shadcn-dashboard-nu.vercel.app/).
+[https://expense-dashboard-nu.vercel.app](https://expense-dashboard-nu.vercel.app/).
 
 Github:
 [https://github.com/Jananisankar21419/dashboard](https://github.com/Jananisankar21419/dashboard).
