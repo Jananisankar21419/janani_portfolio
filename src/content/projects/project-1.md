@@ -1,6 +1,6 @@
 ---
 title: 'Expense Dashboard (Work in progress)'
-description: Effortlessly tracking Exprenses.
+description: Track your expenses effortlessly.
 publishDate: 'Apr 2 2024'
 seo:
   image:
