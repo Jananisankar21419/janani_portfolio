@@ -1,5 +1,5 @@
 ---
-title: 'Expense Dashboard'
+title: 'Expense Dashboard (Work in progress)'
 description: Effortlessly tracking Exprenses.
 publishDate: 'Apr 2 2024'
 seo:
