@@ -6,7 +6,7 @@ seo:
 ---
 Hi There !!  I'm **Janani**,  I'm a 22 y/o  ECE graduate student at SSM Institute of Engineering and Technology which is located in Dindigul, Tamil Nadu, India. 
 
-![Upcoming front end developer](/jananiabout.jpg)
+![Upcoming front end developer](/janani_s.svg)
 
 My go-to Stack :
 
