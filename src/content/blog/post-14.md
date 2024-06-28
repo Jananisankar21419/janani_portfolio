@@ -23,9 +23,7 @@ Its a simple chatting app which has high privacy and networking for individuals.
 
 The below images shows the user's emotions  while using this chat application, it will show how much he is happy or sad or neutral based.
 The main aim was to design the interface from scratch with clean look and feel, where user can  easily interact with each other by sending messages or files.
-![Wavy lines](/xross1.webp)
-![Wavy lines](/xross2.webp)
-![Wavy lines](/xross3.webp)
+
 The main aim is to make the user feel safe while using this platform, so I focused on designing it such that the users can easily navigate.
 
 So that’s it for this blog. All the designs for Xrosstalk can be found [here](https://www.figma.com/file/D6zIlHGVahcAf2nxJVW3dG/SLT-XROSS-TALK-DESIGN?type=design&node-id=0%3A1&mode=design&t=ALoyZO1RLfpXTUoU-1).
