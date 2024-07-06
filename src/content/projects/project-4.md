@@ -38,9 +38,19 @@ Special Dishes:
 Newsletter:
 ![Project preview](/news.svg)
 
-Wireframes:
-![Project preview](/w1.svg)
+Coins for every order:
+![Project preview](/cd-coins.svg)
 
+Payment:
+![Project preview](/payment.svg)
+
+Track the order:
+![Project preview](/track.svg)
+
+Order History:
+![Project preview](/order.svg)
+
+App Design:
 ![Project preview](/w2.svg)
 
 ![Project preview](/w3.svg)
