@@ -24,7 +24,7 @@ Case Study:
 
 ### Screenshots
 Main Website:
-![Project preview](/main.svg)
+![Project preview](/apple.svg)
  
 
 ![Project preview](/cdphone.png)
