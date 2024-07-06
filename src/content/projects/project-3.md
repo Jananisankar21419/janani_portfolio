@@ -33,3 +33,32 @@ Figma
 
 Profile Page:
 ![Project preview](/profile.svg)
+
+Chat Page:
+![Project preview](/chat.svg)
+
+Explore:
+![Project preview](/explore.svg)
+
+Privacy Settings:
+![Project preview](/accounts.svg)
+
+Settings:
+![Project preview](/settings.svg)
+
+Account Settings:
+![Project preview](/account-set.svg)
+
+Tags :
+![Project preview](/tags.svg)
+
+Notification Page:
+![Project preview](/notification.svg)
+
+Edit Profile Page:
+![Project preview](/editpro.svg)
+
+Emotions:
+![Project preview](/emotion1.svg)
+![Project preview](/emotion2.svg)
+![Project preview](/emotion3.svg)
