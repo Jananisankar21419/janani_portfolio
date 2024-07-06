@@ -11,7 +11,7 @@ seo:
 
 ### About
 
-**Cake Dilim** is a Local restuarant which is located at Dindigul. The restaurant has been running for over 2 years , in which they need official website Design to build the business.
+**Cake Dilim** is a Local restuarant which is located at Dindigul. The restaurant has been running for over 2 years , in which they need official website Design to promote the business.
 
 ### View Live
 
