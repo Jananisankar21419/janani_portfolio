@@ -9,21 +9,29 @@ seo:
 
 ![Project preview](/cdd.svg)
 
+### About
+
 **Cake Dilim** is a Local restuarant which is located at Dindigul. The restaurant has been running for over 2 years , in which they need official website Design to build the business.
 
-**Colaborator:** [Reena](https://www.linkedin.com/in/reena-m-35724a203/).
+### View Live
 
-## Project Overview
+Demo link:
+[https://www.behance.net/gallery/168387825/Cakedilim](https://www.behance.net/gallery/168387825/Cakedilim).
 
-Developing a food delivery application for Cake Dilim and need to
-build a promotional website.
+Case Study:
+[https://www.behance.net/gallery/189005883/CAKEDILIM](https://www.behance.net/gallery/189005883/CAKEDILIM).
 
-## Tools
+
+### Screenshots
+Main Website:
+![Project preview](/main.svg)
+ 
+
+![Project preview](/cdphone.png)
+
+
+### Tools
 
 Figma, Adobe
 
-![Project preview](/cdweb.png)
- <br>Check out the Website Design in [Behance](https://www.behance.net/gallery/168387825/Cakedilim).
-
-![Project preview](/cdphone.png)
-Case Study for App Design: [Behance](https://www.behance.net/gallery/189005883/CAKEDILIM).
+**Colaborator:** [Reena](https://www.linkedin.com/in/reena-m-35724a203/).
