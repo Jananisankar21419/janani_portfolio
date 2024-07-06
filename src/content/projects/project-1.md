@@ -11,7 +11,7 @@ seo:
 
 ### About
 
-A expense Tracker Dashboard allows you to track and categorize your spending and giving you a clear picture about your financials.
+An expense Tracker Dashboard allows you to track and categorize your spending and giving you a clear picture about your financials.
 This is a side project for me to learn TypeScript.
   
 ### View Live
