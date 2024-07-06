@@ -22,12 +22,28 @@ Case Study:
 [https://www.behance.net/gallery/189005883/CAKEDILIM](https://www.behance.net/gallery/189005883/CAKEDILIM).
 
 
-### Screenshots
+### Some Screenshots
 Main Website:
 ![Project preview](/apple.svg)
- 
 
-![Project preview](/cdphone.png)
+Login Page:
+![Project preview](/login1.svg)
+
+Signup Page:
+![Project preview](/cart.svg)
+
+Special Dishes:
+![Project preview](/special.svg)
+
+Newsletter:
+![Project preview](/news.svg)
+
+Wireframes:
+![Project preview](/w1.svg)
+
+![Project preview](/w2.svg)
+
+![Project preview](/w3.svg)
 
 
 ### Tools
