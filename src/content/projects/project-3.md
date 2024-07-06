@@ -29,3 +29,7 @@ and is to make the user feel safe while using this platform, so I focused on des
 
 Figma
 
+### Screenshots
+
+Profile Page:
+![Project preview](/profile.svg)
