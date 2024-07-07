@@ -39,7 +39,7 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Janani Sankaralingam',
-    subtitle: 'Front-end Developer',
+    subtitle: 'Front-end Developer | Web Designer',
     description: 'Developer Portfolio',
     headerNavLinks: [
         {
@@ -99,7 +99,7 @@ const siteConfig: SiteConfig = {
     },
     
     postsPerPage: 1,
-    projectsPerPage: 3
+    projectsPerPage: 4
 };
 
 export default siteConfig;
