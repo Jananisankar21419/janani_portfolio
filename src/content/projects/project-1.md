@@ -1,6 +1,6 @@
 ---
 title: 'Expense Dashboard (Work in progress)'
-description: Track your expenses effortlessly.
+description: An expense Tracker Dashboard allows you to track and categorize your spending and giving you a clear picture about your financials.
 publishDate: 'Apr 2 2024'
 seo:
   image:
