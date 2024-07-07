@@ -1,5 +1,5 @@
 ---
-title: From Concept to Creation: Designing Xrosstalk
+title: 'From Concept to Creation: Designing Xrosstalk'
 excerpt: My first UI/UX design project, which I completed during my first year of college [in 2021].
 publishDate: 'Apr 24 2024'
 isFeatured: true
