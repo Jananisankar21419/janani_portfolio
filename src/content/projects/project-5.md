@@ -1,6 +1,6 @@
 ---
 title: 'E-shop'
-description:  A Shopping Cart
+description:  A curated and coded shopping site offering a seamless and personalized online shopping experience with a focus on high-quality products.
 publishDate: 'Aug 17 2024'
 seo:
   image:
