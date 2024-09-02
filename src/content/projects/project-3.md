@@ -62,3 +62,11 @@ Emotions:
 ![Project preview](/emotion1.svg)
 ![Project preview](/emotion2.svg)
 ![Project preview](/emotion3.svg)
+
+### Client Feedback : 
+
+"The service is really Excellent, Professional Handling with High Defined Quality in  Craft. I really Appreciate the Transparency and On Time Delivery of the Projects. Warmly felt Satisfied with the Designs."
+
+- J J Joshua
+- CEO of XrossTalk
+  
