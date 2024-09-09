@@ -7,7 +7,6 @@ seo:
     src: '/hc1.png'
 ---
 
-![Project preview](/hc1.png)
 
 ### About
 
