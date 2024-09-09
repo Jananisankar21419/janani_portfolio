@@ -11,7 +11,7 @@ seo:
 
 ### About
 
-**Healers Healthcare** is used to own and share the medical data securely with tokenized systems.
+**Healers Healthcare** is to own and share the medical data securely with tokenized systems. it basically uses the concept of web3 blockchain. 
 
 ### POV
 
@@ -23,7 +23,6 @@ NEW DESIGNS:
 
 ![Project preview](/hc1.png)
 ![Project preview](/hc2.png)
-![Project preview](/hc3.png)
 ![Project preview](/hc3.png)
 ![Project preview](/hc4.png)
 ![Project preview](/hc5.png)
