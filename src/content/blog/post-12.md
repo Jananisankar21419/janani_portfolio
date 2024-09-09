@@ -1,5 +1,5 @@
 ---
-title: 'Cake Dilim (Freelance)'
+title: 'Cake Dilim RE-DESIGN'
 description: attempt of re-design Cake Dilim's Website for animation purposes.
 publishDate: 'Apr 19 2024'
 seo:
