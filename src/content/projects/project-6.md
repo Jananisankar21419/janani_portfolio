@@ -7,7 +7,7 @@ seo:
     src: '/1.png'
 ---
 
-![Project preview](/1.png)
+
 
 ### About
 
