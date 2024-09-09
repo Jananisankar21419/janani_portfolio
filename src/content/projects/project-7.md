@@ -23,7 +23,7 @@ NEW DESIGNS:
 
 ![Project preview](/hc1.png)
 ![Project preview](/hc2.png)
-![Project preview](/hc3.png)
+![Project preview](/hc31.png)
 ![Project preview](/hc4.png)
 ![Project preview](/hc5.png)
 ![Project preview](/hc6.png)
