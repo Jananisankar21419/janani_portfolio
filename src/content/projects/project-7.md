@@ -17,18 +17,34 @@ seo:
 This Project is literally build from scratch from designs to coding. It is designed for the usage of 3d blender models, framer motions for smooth animations using Nextjs.
 
 ### Screenshots
-NEW DESIGNS: 
+
+### Landing Page:
+![Project preview](/desktop.png)
+
+### Dashboard:
+![Project preview](/hc-d.png)
+
+### Doctor Dashboard:
+![Project preview](/hc-d1.png)
+
+### Doctor Details:
+![Project preview](/hc-d2.png)
+
+### Patient Details:
+![Project preview](/hc-d3.png)
+
+### Uploading health data:
+![Project preview](/hc-d4.png)
 
 
-![Project preview](/hc1.png)
-![Project preview](/de2.png)
-![Project preview](/hc31.png)
-![Project preview](/hc4.png)
-![Project preview](/hc5.png)
-![Project preview](/hc6.png)
-![Project preview](/hc7.png)
-![Project preview](/hc8.png)
-![Project preview](/de3.png)
+### Test report data:
+![Project preview](/hc-d5.png)
+
+### Medical report data:
+![Project preview](/hc-d6.png)
+
+
+
 
 ### Tools
 
