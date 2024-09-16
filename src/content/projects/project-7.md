@@ -16,6 +16,10 @@ seo:
 
 This Project is literally build from scratch from designs to coding. It is designed for the usage of 3d blender models, framer motions for smooth animations using Nextjs.
 
+### Figma File
+
+[Click to view](https://www.figma.com/design/1Zpnypwsl59G8D3T5rTliI/hc?node-id=0-1&t=by7V7vGOBmoJcEz9-1).
+
 ### Screenshots
 
 ### Landing Page:
