@@ -1,6 +1,6 @@
 ---
 title: 'Profile'
-description:  Hiring assesment from the startup company "Profile"
+description:  Hiring assessment from the startup company profile
 publishDate: 'Sep 19 2024'
 seo:
   image:
@@ -12,6 +12,10 @@ seo:
 ### About
 
 **Profile** is like sharing your career stories, experiences, and wins.
+
+Profile.fyi is the next-gen professional social network aimed at enabling people to build their ultimate career profile by showcasing things that matter.
+
+
 
 ### View Live
 
