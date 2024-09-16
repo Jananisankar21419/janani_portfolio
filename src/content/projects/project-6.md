@@ -1,5 +1,5 @@
 ---
-title: 'Cake Dilim RE-DESIGN'
+title: 'Cake Dilim'
 description: attempt of re-design Cake Dilim's Website for animation purposes.
 publishDate: 'Apr 19 2024'
 seo:
@@ -13,7 +13,7 @@ seo:
 
 **Cake Dilim** is a Local restuarant which is located at Dindigul. The restaurant has been running for over 2 years , in which they need official website Design to promote the business.
 
-### View Live
+
 
 OLD DESIGNS : 
 Demo link:
@@ -21,6 +21,12 @@ Demo link:
 
 Case Study:
 [https://www.behance.net/gallery/189005883/CAKEDILIM](https://www.behance.net/gallery/189005883/CAKEDILIM).
+
+### View Live:
+
+Github : [https://github.com/Jananisankar21419/cd](https://github.com/Jananisankar21419/cd).
+
+Deployment: [https://cakedilim.vercel.app/](https://cakedilim.vercel.app/).
 
 
 ### Screenshots
