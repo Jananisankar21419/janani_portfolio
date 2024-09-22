@@ -31,7 +31,7 @@ Figma
 ### Screenshots
 
 WEBSITE DESIGN:
-![Project preview](/re-xross.png)
+![Project preview](/landing-xr.png)
 
 APP DESIGNS:
 
