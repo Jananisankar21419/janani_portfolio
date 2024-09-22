@@ -15,7 +15,7 @@ Xrosstalk is a community-driven platform created by four passionate engineers ai
 ### View Live
 
 Figma Design:
-[Click to view](https://www.figma.com/design/D6zIlHGVahcAf2nxJVW3dG/SLT-XROSS-TALK-DESIGN?node-id=0-1&t=zyeEJFWatisQU5DB-1).
+[Click to view](https://www.figma.com/design/nLTk1Hh50kkYIfrrLkpanD/xrosstak-redesign-closed?node-id=4018-2675&t=s3ogxU5mDbDxhIr9-1).
 
 
 ### Project overview
