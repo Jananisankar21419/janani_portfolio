@@ -30,10 +30,19 @@ Figma
 
 ### Screenshots
 
-Profile Page:
+WEBSITE DESIGN:
 ![Project preview](/re-xross.png)
 
+APP DESIGNS:
 
+Login Page
+![Project preview](/xr-login.png)
+
+Signin Page
+![Project preview](/xr-sign.png)
+
+Profile, chat, explore Page:
+![Project preview](/xr1.png)
 
 ### Client Feedback : 
 
