@@ -41,8 +41,13 @@ Login Page
 Signin Page
 ![Project preview](/xr-sign.png)
 
+Landing Page:
+![Project preview](/xr-1.png)
+
 Profile, chat, explore Page:
 ![Project preview](/xr1.png)
+
+
 
 ### Client Feedback : 
 
