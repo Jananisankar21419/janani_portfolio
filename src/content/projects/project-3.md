@@ -31,7 +31,7 @@ Figma
 ### Screenshots
 
 Profile Page:
-![Project preview](/re-xross.png)
+![Project preview](/re-cross.png)
 
 
 
