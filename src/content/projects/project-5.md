@@ -18,8 +18,20 @@ seo:
 Github:
 [https://github.com/Jananisankar21419/profile.fyi_assignment](https://github.com/Jananisankar21419/profile.fyi_assignment).
 
+Signup
+
+- Username: Joe Gardner
+- Email: jgardner@gmail.com
+- Password: 12345678
+
+ Login
+
+- Email: jgardner@gmail.com
+- Password: 12345678
+
 Deployment:
 [https://e-shopcart.vercel.app/](https://e-shopcart.vercel.app/).
+
 
 
 ### Some Screenshots
@@ -37,7 +49,6 @@ Filters:
 
 Cart:
 ![Project preview](/img5.jpeg)
-
 
 
 
