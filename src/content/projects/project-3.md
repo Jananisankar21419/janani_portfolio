@@ -1,17 +1,16 @@
 ---
 title: 'Xrosstalk(Freelance)'
 description: Chat, Explore, Network & Feel Safe.
-publishDate: 'May 8 2024'
+publishDate: 'May 8 2021'
 seo:
   image:
-    src: '/Cover.svg'
+    src: ''
 ---
 
-![Project preview](/Cover.svg)
 
 ### About
 
-A simple chatting app  which has high privacy and networking for individuals. 
+Xrosstalk is a community-driven platform created by four passionate engineers aiming to reconnect people through love, hope, and unity. A simple chatting app  which has high privacy and networking for individuals. 
   
 ### View Live
 
@@ -21,10 +20,10 @@ Figma Design:
 
 ### Project overview
 
-- The images shows the user's emotions  while using this chat application, it will show how much the person  is happy or sad or neutral based.
 - The main aim was to design the interface from scratch with clean look and feel, where user can  easily interact with each other by sending messages or files.
 and is to make the user feel safe while using this platform, so I focused on designing it such that the users can easily navigate.
-
+- The images shows the user's emotions  while using this chat application, it will show how much the person  is happy or sad or neutral based.
+  
 ### Software
 
 Figma
@@ -32,36 +31,9 @@ Figma
 ### Screenshots
 
 Profile Page:
-![Project preview](/profile.svg)
+![Project preview](/re-xross.png)
 
-Chat Page:
-![Project preview](/chat.svg)
 
-Explore:
-![Project preview](/explore.svg)
-
-Privacy Settings:
-![Project preview](/accounts.svg)
-
-Settings:
-![Project preview](/settings.svg)
-
-Account Settings:
-![Project preview](/account-set.svg)
-
-Tags :
-![Project preview](/tags.svg)
-
-Notification Page:
-![Project preview](/notification.svg)
-
-Edit Profile Page:
-![Project preview](/editpro.svg)
-
-Emotions:
-![Project preview](/emotion1.svg)
-![Project preview](/emotion2.svg)
-![Project preview](/emotion3.svg)
 
 ### Client Feedback : 
 
