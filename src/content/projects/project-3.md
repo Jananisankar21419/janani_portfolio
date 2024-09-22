@@ -42,12 +42,13 @@ Signin Page
 ![Project preview](/xr-sign.png)
 
 Landing Page:
-![Project preview](/xr-1.png)
-
-Profile, chat, explore Page:
 ![Project preview](/xr1.png)
 
+Profile, chat, explore Page:
+![Project preview](/xr-1.png)
 
+
+For more : [Click to view](https://www.figma.com/design/nLTk1Hh50kkYIfrrLkpanD/xrosstak-redesign-closed?node-id=4018-2675&t=s3ogxU5mDbDxhIr9-1).
 
 ### Client Feedback : 
 
