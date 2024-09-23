@@ -8,11 +8,11 @@ tags:
   - design
 seo:
   image:
-    src: '/Cover.svg'
+    src: '/landing-xr.png'
     alt: Wavy lines
 ---
 
-![Wavy lines](/Cover.svg)
+![Wavy lines](/landing-xr.png)
 
 This post is about how i got into UI/UX Design and Web Development during Covid Lockdown. Check out my designs in [Figma](https://www.figma.com/file/D6zIlHGVahcAf2nxJVW3dG/SLT-XROSS-TALK-DESIGN?type=design&node-id=0%3A1&mode=design&t=ALoyZO1RLfpXTUoU-1).
 
