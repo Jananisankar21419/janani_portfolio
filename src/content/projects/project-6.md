@@ -32,14 +32,17 @@ Deployment: [https://cakedilim.vercel.app/](https://cakedilim.vercel.app/).
 ### Screenshots
 NEW DESIGNS: 
 
+Landing Page:
+![Project preview](/re-cd.jpeg)
 
-![Project preview](/1.png)
-![Project preview](/2.png)
-![Project preview](/3.png)
-![Project preview](/4.png)
-![Project preview](/8.png)
-![Project preview](/9.png)
-### Tools
+Menu Page:
+![Project preview](/re-menu.jpeg)
+
+Contact Page:
+![Project preview](/re-contact.jpeg)
+
+Cart Page:
+![Project preview](/cart.jpeg)
 
 Figma, Adobe
 
