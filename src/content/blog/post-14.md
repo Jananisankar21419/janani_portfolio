@@ -14,7 +14,7 @@ seo:
 
 ![Wavy lines](/LANDING1.png)
 
-This post is about how i got into UI/UX Design and Web Development during Covid Lockdown. Check out my designs in [Figma](https://www.figma.com/file/D6zIlHGVahcAf2nxJVW3dG/SLT-XROSS-TALK-DESIGN?type=design&node-id=0%3A1&mode=design&t=ALoyZO1RLfpXTUoU-1).
+This post is about how i got into UI/UX Design and Web Development during Covid Lockdown. Check out my designs in [Figma](https://www.figma.com/design/nLTk1Hh50kkYIfrrLkpanD/xrosstak-redesign-closed?node-id=4018-2675&t=swNuRST9vIhco1Zr-1).
 
 During Covid lockdown , i used to  spend most of the time on online platforms like youtube, Udemy  for  learning new skills and techniques . One day i came across the software called Figma , and the tutorials to create websites and apps with cool colours and animations in youtube. This is how i got into Designing and development. Just using  basic shapes , colors to create a good design is good to go!!
 
@@ -24,7 +24,7 @@ Its a simple chatting app which has high privacy and networking for individuals.
 xrosstalk user's emotions  while using this chat application, it will show how much he is happy or sad or neutral based.
 The main aim was to design the interface from scratch with clean look and feel, where user can  easily interact with each other by sending messages or files and to make the user feel safe while using this platform, so I focused on designing it such that the users can easily navigate.
 
-So that’s it for this blog. All the designs for Xrosstalk can be found [here](https://www.figma.com/file/D6zIlHGVahcAf2nxJVW3dG/SLT-XROSS-TALK-DESIGN?type=design&node-id=0%3A1&mode=design&t=ALoyZO1RLfpXTUoU-1).
+So that’s it for this blog. All the designs for Xrosstalk can be found [here](https://www.figma.com/design/nLTk1Hh50kkYIfrrLkpanD/xrosstak-redesign-closed?node-id=4018-2675&t=swNuRST9vIhco1Zr-1).
 <br>
 Check out Behance for [more](https://www.behance.net/jananis8).
 
