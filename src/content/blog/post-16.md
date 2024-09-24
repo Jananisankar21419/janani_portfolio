@@ -8,9 +8,6 @@ seo:
 ---
 
 
-
-### Tools
-
 The frustrations I encountered when I started out in frontend development and web design and hunting for resources and tools consumed a lot valuable time that could have been better spent honing my skills.
 Thats why i created [https://toolmiet.vercel.app](https://toolmiet.vercel.app/).
 
