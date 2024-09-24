@@ -1,6 +1,6 @@
 ---
 title: 'Cake Dilim (Freelance)'
-description: attempt of re-design Cake Dilim's Website for animation purposes.
+description: The ultimate Cake Destination.
 publishDate: 'Apr 19 2024'
 seo:
   image:
