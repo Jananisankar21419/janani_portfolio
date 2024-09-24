@@ -47,6 +47,23 @@ Landing Page:
 Profile, chat, explore Page:
 ![Project preview](/xr-1.png)
 
+Chat,Privacy,Settings Page:
+![Project preview](/x-2.png)
+
+Account,Tags,Notifications:
+![Project preview](/x-3.png)
+
+Edit Profiles, Adding Profie:
+![Project preview](/x-4.png)
+
+Adding Profiles, Create group, Discover:
+![Project preview](/x-5.png)
+
+Chat shot for Privacy:
+![Project preview](/x-6.png)
+
+color mood themes: 
+![Project preview](/x-7.png)
 
 For more : [Click to view](https://www.figma.com/design/nLTk1Hh50kkYIfrrLkpanD/xrosstak-redesign-closed?node-id=4018-2675&t=s3ogxU5mDbDxhIr9-1).
 
