@@ -23,10 +23,10 @@ In this blog post, I will share my design process and choices for the landing pa
 
 ### Color Palette
 The chosen color palette includes:
-- **#F7EED3** (Light Peach): Used for backgrounds to create a calming atmosphere.
-- **#FFF8E8** (Very Light Cream): Applied for content areas, enhancing readability.
-- **#AAB396** (Muted Olive Green): Utilized for text and accents, connecting to nature.
-- **#674636** (Dark Brown): Perfect for headings, providing strong contrast.
+- **#F7EED3** (Light Peach)
+- **#FFF8E8** (Very Light Cream)
+- **#AAB396** (Muted Olive Green)
+- **#674636** (Dark Brown)
 
 ### Typography
 I opted for a clean **Sans-serif font** to maintain readability and a friendly tone. The font choice complements the overall calming theme of the app.
@@ -53,6 +53,3 @@ I created three original illustrations to enhance the design:
 ### Conclusion
 The **MindfulSpace landing page** is designed to provide a warm, inviting experience for users seeking mindfulness and meditation resources. Every design choice, from color to layout, is intentional and focused on enhancing user engagement and well-being.
 
----
-
-Feel free to modify any sections, add images, or include additional insights based on your personal experience with the project!
